@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: darkred;
+}
+.all {
+  width: 80%;
+  margin: auto;
+}
+img {
+  height: 50px;
+  margin: 20px;
+}
+.top {
+  height: 310px;
+  background-color: #87A984;
+}
+.header {
+  height: 50px;
+  background-color: grey;
+}
+h1, p {
+  color: white;
+  font-family: sans-serif;
+}
+.first {
+  margin-top: 80px;
+}
+.prvipasus,
+.firstblack {
+  margin-top: 22px;
+}
+.prvipasus {
+  padding-right: 45px;
+}
+.home,
+.service{
+  float: left;
+  margin: 15px;
+  color: white;
+  font-family: sans-serif;
+}
+.home {
+  margin-left: 50px;
+}
+.contactus {
+  float: left;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+  padding: 15px;
+  color: white;
+  font-family: sans-serif;
+}
+#avion {
+  height: 150px;
+  margin-top: 60px;
+  margin-left: 70px;
+  margin-right: 130px;
+  float: left;
+}
+.bottom {
+  height: 700px;
+  background-color: #DBD8C5;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.left {
+  width: 300px;
+  background-color: #96AFAC;
+  height: 700px;
+  float: left;
+}
+.aboutus,
+.howwework,
+.testimonials,
+.contactsupport {
+  margin-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.aboutus {
+  padding-top: 30px;
+}
+hr {
+  width: 190px;
+  margin-left: 30px;;
+}
+.blue,
+.black,
+.firstblack {
+  margin-left: 354px;
+}
+.blue {
+  color: #586C73;
+  padding-top: 30px;
+}
+.black,
+.firstblack {
+  color: #494741;
+  padding-right: 45px;
+}
